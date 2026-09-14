@@ -9,3 +9,5 @@ function canaryMarker() {
 }
 
 module.exports = { canaryMarker };
+
+// GAP-LANE test change (inert): GAP-COMMON-CHANGE-20260914
