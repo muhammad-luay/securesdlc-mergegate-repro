@@ -1,0 +1,1 @@
+spoof-leg-3 baseline: clean main (no semgrep.sarif); tests required-check spoof via dispatch.
